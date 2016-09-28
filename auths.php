@@ -1,2 +1,1 @@
 WoW-Core
-xd
