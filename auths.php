@@ -1,1 +1,1 @@
-Permitir
+# WoW-Core
