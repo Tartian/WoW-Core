@@ -1,1 +1,1 @@
-# WoW-Core
+WoW-Core
